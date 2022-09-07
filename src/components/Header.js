@@ -115,7 +115,7 @@ export const Header = () => {
   const [text, setSearch] = useState('');
 
   const { stockSearch } = useContext(GlobalContext);
-
+  
   //running search for stocks
   const onSubmit = e  => {
     e.preventDefault();
@@ -131,7 +131,7 @@ export const Header = () => {
       <nav className="header">
       
         <img className="logo-img" src="icons8-money-80.png" alt=""/>
-        <div className="title" >AlgoTrade</div>
+        <div className="title">AlgoTrade</div>
           
 
         <div className="search-credits">
