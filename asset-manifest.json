@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/johnnyjohnjon/tradingview/static/css/main.7768ab12.chunk.css",
+    "main.js": "/johnnyjohnjon/tradingview/static/js/main.39a39c97.chunk.js",
+    "main.js.map": "/johnnyjohnjon/tradingview/static/js/main.39a39c97.chunk.js.map",
+    "runtime-main.js": "/johnnyjohnjon/tradingview/static/js/runtime-main.533bafe6.js",
+    "runtime-main.js.map": "/johnnyjohnjon/tradingview/static/js/runtime-main.533bafe6.js.map",
+    "static/js/2.29c9a31b.chunk.js": "/johnnyjohnjon/tradingview/static/js/2.29c9a31b.chunk.js",
+    "static/js/2.29c9a31b.chunk.js.map": "/johnnyjohnjon/tradingview/static/js/2.29c9a31b.chunk.js.map",
+    "index.html": "/johnnyjohnjon/tradingview/index.html",
+    "static/css/main.7768ab12.chunk.css.map": "/johnnyjohnjon/tradingview/static/css/main.7768ab12.chunk.css.map",
+    "static/js/2.29c9a31b.chunk.js.LICENSE.txt": "/johnnyjohnjon/tradingview/static/js/2.29c9a31b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.533bafe6.js",
+    "static/js/2.29c9a31b.chunk.js",
+    "static/css/main.7768ab12.chunk.css",
+    "static/js/main.39a39c97.chunk.js"
+  ]
+}
