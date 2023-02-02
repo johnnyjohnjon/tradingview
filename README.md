@@ -7,4 +7,4 @@
 Built to visualize stock data and simple paper trading algorithms.
 
 
-![Alt text](relative/path/to/Screen Shot 2023-02-02 at 1.58.09 PM.png?raw=true "Screen Shot 2023-02-02 at 1.58.09 PM.png")
+![Alt text](Screen Shot 2023-02-02 at 1.58.09 PM.png")
