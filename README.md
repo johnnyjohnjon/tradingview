@@ -7,4 +7,4 @@
 Built to visualize stock data and simple paper trading algorithms.
 
 
-![alt text](Screen Shot 2023-02-02 at 1.58.09 PM.png?raw=true)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
