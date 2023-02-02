@@ -7,4 +7,4 @@
 Built to visualize stock data and simple paper trading algorithms.
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
