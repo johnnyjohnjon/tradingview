@@ -1,6 +1,7 @@
 {
   "name": "trade-analyzer-react",
   "version": "0.1.0",
+  "homepage": "http://{johnnyjohnjon}.github.io/{tradingview}",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
