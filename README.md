@@ -7,4 +7,4 @@
 Built to visualize stock data and simple paper trading algorithms.
 
 
-![alt text](https://github.com/[johnnyjohnjon]/[tradingview]/blob/[main]/Screen Shot 2023-02-02 at 1.58.09 PM.png?raw=true)
+![alt text](Screen Shot 2023-02-02 at 1.58.09 PM.png?raw=true)
