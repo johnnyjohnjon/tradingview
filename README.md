@@ -8,3 +8,4 @@ Built to visualize stock data and simple paper trading algorithms.
 
 
 ![Screenshot](Screenshot.png)
+![Screenshot](screenshot2.png)
